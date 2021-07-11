@@ -1,0 +1,15 @@
+.nav-item{
+  font-size:18px;
+}
+.search-container{
+	width:25%
+}
+.button{
+	background-color: red;
+	color: green;
+}
+.submit{
+	width:70px;
+	background-color: #1c87c9;
+    color: #ffffff;
+}
